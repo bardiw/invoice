@@ -62,7 +62,8 @@ python invoice.py
 ---
 
 👨‍💻 Author
-Bardia Javadi  
-GitHub: @bardiw  
-Email: bardia.javadi.2003@email.com  
+
+ Bardia Javadi   
+ GitHub: @bardiw  
+ Email: bardia.javadi.2003@email.com  
 
