@@ -20,8 +20,7 @@ invoice-generator/
 
 │
 
-├── invoice.py # Main script (you run this)
-
+├── invoice.py # Main script (you run this)   
 ├── templates/
 
 │ ├── template.html # Jinja2 HTML template (Persian format)
