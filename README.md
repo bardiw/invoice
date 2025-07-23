@@ -66,6 +66,20 @@ python invoice.py
 
 ---
 
+## 📋 Example Input
+```
+order number: 1254
+customer name: علی مرادی
+economical number: 123456
+national code: 0042158735
+...
+number of products: 2
+  → product 1: code, name, number, unit, price, discount, tax
+  → product 2: ...
+```
+
+  ---
+  
 👨‍💻 Author
 
  Bardia Javadi   
