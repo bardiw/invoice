@@ -17,9 +17,13 @@ A simple, terminal-based Python project that generates **Persian-language invoic
 ## 📁 Project Structure
 
 invoice-generator/
+
 │
+
 ├── invoice.py # Main script (you run this)
+
 ├── templates/
+
 │ ├── template.html # Jinja2 HTML template (Persian format)
 │ └── new-template.html # Generated HTML output (optional)
 ├── inv.pdf # Final generated invoice
