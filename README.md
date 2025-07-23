@@ -78,7 +78,20 @@ number of products: 2
   → product 2: ...
 ```
 
-  ---
+---
+
+## 🖨️ Output Preview
+The final output (inv.pdf) is a printable, styled invoice in Persian, supporting:
+
+- Table of products with pricing, discounts, and tax
+
+- Buyer & seller information
+
+- Payment terms and description
+
+- Auto date (based on Jalali calendar)
+
+---
   
 👨‍💻 Author
 
