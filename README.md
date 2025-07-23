@@ -7,7 +7,7 @@ A simple, terminal-based Python project that generates **Persian-language invoic
 ## 📌 Features
 
 - 🧑‍💼 Takes customer and product info via CLI
-- 🧾 Calculates product totals, tax, discounts automatically
+- 🧾 Calculates product totals, tax, and discounts automatically
 - 🌐 Uses `Jinja2` to render a Persian invoice (RTL)
 - 📅 Includes Jalali (Persian) date via `jdatetime`
 - 📄 Exports result as a clean, printable **PDF invoice**
@@ -22,7 +22,6 @@ invoice-generator/
 ├── invoice.py # Main script (you run this)   
 ├── templates/   
 │ ├── template.html # Jinja2 HTML template (Persian format)  
-│ └── new-template.html # Generated HTML output (optional)  
 ├── inv.pdf # Final generated invoice  
 ├── README.md # You're here  
 
