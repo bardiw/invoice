@@ -37,7 +37,3 @@ invoice-generator/
   - pdfkit
   - jdatetime
 
-### ✅ Installation
-
-```bash
-pip install -r requirements.txt
