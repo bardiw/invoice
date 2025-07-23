@@ -25,3 +25,19 @@ invoice-generator/
 ├── inv.pdf # Final generated invoice  
 ├── README.md # You're here  
 
+
+---
+
+## 🔧 Requirements
+
+- Python 3.6+
+- [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html) (must be installed separately)
+- Python libraries:
+  - jinja2
+  - pdfkit
+  - jdatetime
+
+### ✅ Installation
+
+```bash
+pip install -r requirements.txt
