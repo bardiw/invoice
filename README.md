@@ -37,6 +37,11 @@ invoice-generator/
   - pdfkit
   - jdatetime
 
+- Make sure wkhtmltopdf is installed and its path is correctly set in the script:
+
+```bash
+wkhtmltopdf = r"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
+```
   ---
 
   ## ▶️ How to Use
