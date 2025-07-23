@@ -59,3 +59,10 @@ python invoice.py
 
 4- Your invoice will be saved as: inv.pdf
 
+---
+
+👨‍💻 Author
+Bardia Javadi
+GitHub: @bardiw
+Email: bardia.javadi.2003@email.com
+
