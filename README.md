@@ -40,22 +40,22 @@ invoice-generator/
   ---
 
   ## ▶️ How to Use
-Clone the repo:
+1- Clone the repo:
 
 ```bash
 git clone https://github.com/bardiw/invoice.git
 cd invoice-generator
 ```
 
-Run the script:
+2- Run the script:
 
 ```bash
 python invoice.py
 ```
-Fill in all requested fields:
+3- Fill in all requested fields:
 - Customer info
 - Product details (code, name, quantity, unit, unit price, discount, tax)
 - Terms and notes
 
-* Your invoice will be saved as: inv.pdf
+4- Your invoice will be saved as: inv.pdf
 
