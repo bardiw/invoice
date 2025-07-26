@@ -96,6 +96,6 @@ The final output (inv.pdf) is a printable, styled invoice in Persian, supporting
 👨‍💻 Author
 
  Bardia Javadi   
- GitHub: @bardiw  
+ GitHub: [@bardiw](https://github.com/bardiw)
  Email: bardia.javadi.2003@email.com  
 
